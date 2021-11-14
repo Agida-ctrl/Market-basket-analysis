@@ -1,5 +1,5 @@
 # Market-basket-analysis
-association rule are used to predict the likelihood of products being purchased together and count the frequency of items that occur together, seeking to find associations that occuur far more often than expected       
+association rule are used to predict the likelihood of products being purchased together and count the frequency of items that occur together, seeking to find associations that occur far more often than expected       
 ## Dataset
 the dataset is from the UCI Machine Learning Repository. The dataset contains transaction data from 01/12/2010 to 09/12/2011 for a UK-based registered non-store online retail.
 
